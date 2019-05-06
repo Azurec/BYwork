@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DateServer", "DateServer\DateServer.vcxproj", "{95059F7B-2B68-467C-B19C-6726BD3537E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95059F7B-2B68-467C-B19C-6726BD3537E3}.Debug|x64.ActiveCfg = Debug|x64
+		{95059F7B-2B68-467C-B19C-6726BD3537E3}.Debug|x64.Build.0 = Debug|x64
+		{95059F7B-2B68-467C-B19C-6726BD3537E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{95059F7B-2B68-467C-B19C-6726BD3537E3}.Debug|x86.Build.0 = Debug|Win32
+		{95059F7B-2B68-467C-B19C-6726BD3537E3}.Release|x64.ActiveCfg = Release|x64
+		{95059F7B-2B68-467C-B19C-6726BD3537E3}.Release|x64.Build.0 = Release|x64
+		{95059F7B-2B68-467C-B19C-6726BD3537E3}.Release|x86.ActiveCfg = Release|Win32
+		{95059F7B-2B68-467C-B19C-6726BD3537E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83482379-B32E-4E78-8AE2-ED083B250A70}
+	EndGlobalSection
+EndGlobal
